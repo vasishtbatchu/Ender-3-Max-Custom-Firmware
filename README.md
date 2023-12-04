@@ -7,3 +7,5 @@ I plan to make more upgrades including silent part cooling as right now only the
 I want the Ender 3 Max to become a more user friendly printer as creality has slowly attempted to faze out the printer in my opinion.
 With the help of the code and discord, I hope you are able to upgrade your ender.
 Happy printing!
+
+![B5A6A947-670A-4CF4-A3AE-36D4CB89DC1D_1_105_c](https://github.com/vasishtbatchu/Ender-3-Max-Custom-Firmware/assets/49460605/21e3984b-2f55-4dac-8fe7-b80a46c63691)
